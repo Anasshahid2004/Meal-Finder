@@ -22,4 +22,4 @@ Ensure you have the following installed:
 <!-- ### Installation -->
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnasShahid/meal-finder.git
+   git clone git remote add origin https://github.com/Anasshahid2004/Meal-Finder.git
